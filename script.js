@@ -6,6 +6,9 @@
 // @grant        none
 // @include      http://9gag.com/gag/*
 // ==/UserScript==
+
+//use max 3 tags per comment i.e. 3 tags per element of array
+//Press F2->list1, F4->list2, F8->list3, F9->list4
 var list1 = ["@1haxxorsid01 @1haxxorsid02 @1haxxorsid03","@1haxxorsid04 @1haxxorsid05 @1haxxorsid06","@1haxxorsid07 @1haxxorsid08 @1haxxorsid09",
                  "@1haxxorsid10 @1haxxorsid11 @1haxxorsid12","@1haxxorsid13 @1haxxorsid14 @1haxxorsid15"];
 
