@@ -6,7 +6,7 @@ Steps
 -------
 
 1. Download [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) in chrome.
-2. Click on Tampermonkey icon. Enable it(if it is disabled) in chrome.
+2. Click on Tampermonkey icon. Enable it(if it is disabled) in Chrome.
 3. Add a new script.
 4. Copy paste the script from script.js in this repo.
 5. Add the tags of the users of your choice in array(s) (Note: 3 tags per 1 element in array).
@@ -18,5 +18,5 @@ Steps
 
 Note
 -------
-1. You can use Greasemonkey instead of tampermonkey as well.
+1. You can use [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) if you're a Firefox user instead of tampermonkey as well.
 2. You must need to run list1(F2) before running any other list.
