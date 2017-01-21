@@ -1,5 +1,4 @@
-# 9GAG AutoTag Script
-
+# 9TAG: AutoTag On 9GAG
 AutoTag script for 9gag. You can inject it using Tampermoney or Greasemonkey.
 
 Steps
