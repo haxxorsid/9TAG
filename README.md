@@ -19,3 +19,4 @@ Note
 -------
 1. You can use [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) if you're a Firefox user instead of tampermonkey as well.
 2. You must need to run list1(F2) before running any other list.
+3. It has been a long time, this script might not work.
